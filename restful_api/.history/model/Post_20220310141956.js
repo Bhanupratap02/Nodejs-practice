@@ -1,0 +1,2 @@
+const { default: } = require("mongoose");
+
